@@ -1,9 +1,14 @@
 # -stock-analysis-
+
 Overview of Project
+
 The purpuse of this project is to refactor the code on the Stock Analysis in order to run it faster
 
 Results
+
 Execution Times
+
+
 ![VBA_Challenge_2017-Original_Script](https://user-images.githubusercontent.com/90288638/134781496-9fc9a839-5a38-4a11-8652-c78dc32fe4a9.jpg)
 
 ![VBA_Challenge_2017-Refactored Scrip](https://user-images.githubusercontent.com/90288638/134781513-285c3fe5-4ecb-4ea0-a222-3cc1016587fd.jpg)
