@@ -27,7 +27,7 @@ Refactored Script 2018
 
 Summary:
 1. What are the advantages or disadvantages of refactoring code? You can encounter errors on the new code that takes time to fix
-2. What are the advantages or disadvantages of refactoring code? Pros: The Execution timing for the refactored 2018 is a little bit faster than the original script Cons: The Execution timing for th Original code for 2017 increased
+2. What are the advantages or disadvantages of refactoring code? Pros: The Execution timing for the refactored 2017 is a little bit faster than the original script Cons: The Execution timing for th Original code for 2018 increased
 
 
 
