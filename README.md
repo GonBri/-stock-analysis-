@@ -8,12 +8,20 @@ Results
 
 Execution Times
 
+Original Script 2017
+
 
 ![VBA_Challenge_2017-Original_Script](https://user-images.githubusercontent.com/90288638/134781496-9fc9a839-5a38-4a11-8652-c78dc32fe4a9.jpg)
 
+Refactored Script 2017
+
 ![VBA_Challenge_2017-Refactored Scrip](https://user-images.githubusercontent.com/90288638/134781513-285c3fe5-4ecb-4ea0-a222-3cc1016587fd.jpg)
 
+Original Script 2018
+
 ![VBA_Chanllenge_2018-Original_Script](https://user-images.githubusercontent.com/90288638/134781574-a711665d-8acb-41f0-8e6f-bc5cc714b5f8.jpg)
+
+Refactored Script 2018
 
 ![VBA_Challenge_2018-Refactored Scrip](https://user-images.githubusercontent.com/90288638/134781576-1ceb13bf-634e-43e2-8e1a-2dc69489fc46.jpg)
 
